@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="rr.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="189"/>
+        <CursorPos X="47" Y="198"/>
+        <UsageCount Value="354"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="210" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="214" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="216" TopLine="200"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="217" TopLine="201"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="218" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="219" TopLine="203"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="225" TopLine="216"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="207" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="208" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="210" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="214" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="216" TopLine="200"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="217" TopLine="201"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="218" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="219" TopLine="203"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="225" TopLine="216"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="207" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="208" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="210" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="214" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="216" TopLine="200"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="217" TopLine="201"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="218" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="219" TopLine="203"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="225" TopLine="216"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="207" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="208" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="210" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="39" Column="29" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="rr.lpr"/>
+        <Caret Line="198" Column="14" TopLine="189"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default">
+        <Mode Name="default">
+          <local>
+            <CommandLineParams Value="-d mktests -v -r"/>
+            <WorkingDirectory Value="D:\DOC\Project\random_renamer"/>
+          </local>
+        </Mode>
+      </Modes>
+    </RunParams>
+    <HistoryLists>
+      <List Name="WorkingDirectory" Type="File" Count="2">
+        <Item1 Value="D:\DOC\Project\random_renamer"/>
+      </List>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="C:\Windows\system32\cmd.exe /C ${TargetCmdLine}"/>
+      </List>
+      <List Name="CommandLineParameters" Count="3">
+        <Item1 Value="-d mktests -v -r"/>
+        <Item2 Value="-d mktests -s -v -r"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="lstDirs"/>
+      </Item>
+      <Item>
+        <Expression Value="lstDirs[i]"/>
+      </Item>
+      <Item>
+        <Expression Value="i"/>
+      </Item>
+      <Item>
+        <Expression Value="lstDirs.Count"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
