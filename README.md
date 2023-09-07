@@ -3,7 +3,7 @@
 
 ## Quick help
 
-Random renamer (rr), this program rename files to random names
+`Random renamer (rr), this program rename files to random names
 
 v 0.0.1b (L) ChaosSoftware 2023.
 
@@ -45,4 +45,4 @@ Alphabets:
 
 6: ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
-Default: 0
+Default: 0`
